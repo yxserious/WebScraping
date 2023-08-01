@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nidgI8r7zkxvonYatc18p0pZWnsdnQ3kWj1XXVgpgw1dP66/G61PSwJx+LmElfpQpoY+CxBeCjcHcpsKez29ug==",
+  "success": true,
+  "projectFilePath": "/Users/beierli/Desktop/Project/WebScraping/WebScraping/WebScraping.csproj",
+  "expectedPackageFiles": [
+    "/Users/beierli/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512",
+    "/Users/beierli/.nuget/packages/htmlagilitypack/1.11.51/htmlagilitypack.1.11.51.nupkg.sha512"
+  ],
+  "logs": []
+}
